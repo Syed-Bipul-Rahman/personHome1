@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607558856662",
+    "project_id": "home-health-157b6",
+    "storage_bucket": "home-health-157b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607558856662:android:051f6e0955dd391167be77",
+        "android_client_info": {
+          "package_name": "com.example.home_health_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW2OLqc0JrJcf4NXpRhJ_Q1fWxEOVdnZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
